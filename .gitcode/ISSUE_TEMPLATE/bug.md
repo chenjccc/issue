@@ -1,8 +1,8 @@
 ---
-name: Bug 报告（.md模版）
-about: 报告一个问题帮助我们改进
-title: [BUG]
-labels: ["bug"]
+name: Bug 报告（.md模版）  
+about: 报告一个问题帮助我们改进  
+title: [BUG]  
+labels: ["bug"]  
 assignees: "f1325"
 ---
 
