@@ -1,0 +1,5 @@
+blank_issues_enabled: false  # 禁用创建空白 Issue 的选项
+contact_links:
+  - name: GitCode 帮助中心
+    url: https://docs.gitcode.com/
+    about: 我们将随时为你提供帮助，解答你在 GitCode 使用过程中的各种疑问
